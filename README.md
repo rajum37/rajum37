@@ -1,74 +1,129 @@
-# Hi there, I'm Raju M 👋
+# Hi, I'm Raju Mokara 👋
+## AI Systems Architect | Multi-Agent Orchestration | Voice Agents | LLM Workflows
 
-## 🚀 AI Systems Architect | Multi-Agent Orchestration | Voice Agents | LLM Workflows
-
-> Building intelligent automation systems that transform how businesses operate.
-
----
-
-### 🧠 About Me
-
-- 🔭 Currently building **Autonomous AI SDR Agents** and **Voice & Conversational Intake Agents**
-- 💼 7+ years in Frontend Development with deep expertise in **Healthcare & Hospital Systems**
-- 🌍 Based in **Visakhapatnam, India** — building AI solutions for global clients
-- 🎯 Focused on **AI Automation Agency** — helping businesses scale with AI-powered workflows
-- 🧘 Passionate about meditation and mindfulness
+8+ years building scalable web systems. Now shipping autonomous AI infrastructure that actually works — for humans and agents.
 
 ---
 
-### 🛠️ Tech Stack
+## 🤖 What I'm Building
 
-#### AI & Automation
-![Retell AI](https://img.shields.io/badge/Retell_AI-Voice_Agents-blue)
-![LangChain](https://img.shields.io/badge/LangChain-LLM_Workflows-green)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT_Models-412991?logo=openai)
-![Google Gemini](https://img.shields.io/badge/Google-Gemini_AI-4285F4?logo=google)
+### Autonomous AI SDR Agent
+Mission control for intelligent lead qualification and outreach automation.
 
-#### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+**What it does:**
+- Autonomous prospect research and profiling
+- AI-generated, personalized outreach at scale
+- Intelligent lead qualification and triage
+- Built-in evaluation loops and safety guardrails
+- Seamless human escalation and CRM integration
 
-#### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Zoho](https://img.shields.io/badge/Zoho-CRM_Suite-E42527)
+**Why it matters:** Most people build SDR bots that are fragile and hard to control. I built the infrastructure layer underneath — the decision logic, evaluation frameworks, and human handoff paths that make autonomous systems reliable at scale.
+
+**Tech:** LLM orchestration · OpenAI SDK · Prompt engineering · RAG · PostgreSQL · REST APIs · Evaluation frameworks
 
 ---
 
-### 🏗️ Featured Projects
+### Voice & Conversational Intake Agents
+Low-latency voice systems that understand, decide, and escalate intelligently.
 
-#### 🤖 Autonomous AI SDR Agent
-- End-to-end sales development representative powered by LLMs
-- Handles lead qualification, outreach, and follow-up automation
-- Integrates with CRM systems for seamless pipeline management
+**What it does:**
+- Real-time voice processing (Retell AI, Vapi, Bolna)
+- Multi-turn conversational flows with context memory
+- Smart escalation: knows when to hand off to humans
+- Sub-100ms response-time SLAs
+- Complete interaction logging and analytics
 
-#### 🎙️ Voice & Conversational Intake Agents
-- Built with **Retell AI** for real-time voice interactions
-- Deployed for **Home Services**, **Real Estate**, and **Healthcare** verticals
-- Multi-country deployments using Twilio, Telnyx & Exotel SIP trunks
+**Why it matters:** Voice agents sound great in demos but fail in production when latency spikes or conversations get complex. This system is built for reliability and real human handoff.
 
-#### 🏥 GITAM Enterprise Healthcare Ecosystem
-- Comprehensive hospital management system
-- Frontend architecture for clinical workflows
-- Patient intake, scheduling, and record management
+**Tech:** Voice APIs · WebSocket streaming · NLU/NLP · OpenAI API · Python · Node.js · PostgreSQL
 
 ---
 
+### GITAM Enterprise Ecosystem (2018–2025)
+Architected web systems serving 100K+ users across multiple domains.
 
-### 🤝 Let's Connect
+**What I built:**
+- My-GITAM Portals (React/Next.js): Student, faculty, parent dashboards replacing legacy systems
+- G-Learn LMS: Scalable learning platform with WCAG compliance and Core Web Vitals optimization
+- Hospital HIS Interfaces: End-to-end patient workflow digitalization across 3 hospitals (Basavataram Cancer, GIMSR, GITAM Dental)
+- Enterprise Infrastructure: Centralized CDN + shared component library reducing latency and enforcing brand consistency across 50+ web properties
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajum37)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/rajum37)
+**Systems thinking:** Designed with AI-readiness from the start — clean API boundaries, structured schemas, agent-friendly data models enabling future autonomous systems for triage, scheduling, and document processing.
+
+**Tech:** React · Next.js · TypeScript · Tailwind CSS · Design Systems · PostgreSQL · REST APIs · WCAG · Core Web Vitals
 
 ---
 
-### 💡 Philosophy
+## 💼 Where I've Been
 
-> *"AI isn't replacing humans — it's amplifying human potential. I build systems that free people to do what only humans can do."*
+**GITAM Deemed University** *(Jun 2018 – Oct 2025)*
+- Led frontend architecture across 50+ university web properties
+- Standardized design systems and UI/UX for 100K+ users
+- Digitalized patient workflows across 3 hospitals
+- Mentored frontend engineers on modern web standards
+
+**Sadhanapada, Isha Foundation** *(Jul 2024 – Feb 2025)*
+- 7-month intensive residency on execution and technical excellence
+- Spearheaded testing & debugging for "Miracle of Mind" wellness app (~2M users)
+- Learned discipline, focus, and problem-solving under pressure
+
+**Media Wagon** *(Apr 2017 – Jun 2018)*
+- Built responsive, mobile-first applications
+- Created reusable component libraries
 
 ---
 
-⭐ *Open to collaborations on AI automation, voice agents, and business process optimization.*
+## 🛠 Tech Stack
+
+**AI & LLM Systems**
+Multi-agent orchestration · Voice agents (Retell AI, Vapi, Bolna) · RAG pipelines · MCP (Model Context Protocol) · Prompt engineering · Meta-prompting · LLM guardrails · Evaluation frameworks · OpenAI SDK
+
+**Frontend**
+React · Next.js · TypeScript · Tailwind CSS · Design Systems · Micro-frontends · WCAG · Core Web Vitals · Technical SEO
+
+**Backend & Infrastructure**
+Supabase · PostgreSQL · REST/WebSocket APIs · Node.js · Python · PHP · Git & GitHub CI/CD
+
+**Practices**
+Autonomous workflow architecture · Production LLM systems · Conversational design · Low-latency systems · User-centered design · Agile/Scrum
+
+---
+
+## 📚 Currently Learning
+
+- **Advanced RAG architectures** — Vector databases, semantic search optimization
+- **LangGraph / LangChain frameworks** — Multi-step agent reasoning
+- **Evals & safety** — Guardrails, hallucination mitigation, production monitoring
+- **MCP ecosystem** — Tool integration for agentic systems
+
+---
+
+## 🧠 Philosophy
+
+Most people building agents this year are building use cases (SDR bots, intake flows, etc.). I'm interested in building the infrastructure layer underneath — the systems, decision frameworks, and safety mechanisms that make autonomous agents reliable, controllable, and actually useful in production.
+
+I don't believe in shipping fragile AI. I believe in:
+- **Systems thinking** — not just prompt chaining
+- **User empathy** — agents should be invisible, UX should be delightful
+- **Measurable outcomes** — evals, guardrails, logging, monitoring
+- **Honest communication** — no invented metrics, no overselling
+
+---
+
+## 🚀 Let's Talk
+
+📧 Email: [builtby.rajum@email.com](mailto:builtby.rajum@email.com)
+💼 LinkedIn: [linkedin.com/in/raju-mokara](https://linkedin.com/in/raju-mokara)
+🐙 GitHub: [github.com/rajum37](https://github.com/rajum37)
+
+Interested in collaborating on:
+- Autonomous agent infrastructure
+- Voice agent systems
+- AI-ready architecture design
+- LLM workflows in production
+
+Or just want to talk about AI systems? Message me. I respond fast.
+
+---
+
+*Last updated: June 2026*
