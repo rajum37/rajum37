@@ -57,18 +57,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajum37&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajum37&layout=compact&theme=dark&hide_border=true)
-
----
 
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajum37)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/rajum37)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://upwork.com)
 
 ---
 
